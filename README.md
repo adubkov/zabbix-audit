@@ -1,2 +1,2 @@
 # zabbix-audit
-Send zabbix audit logs to splunk
+This script takes audit log from zabbix, and send it to specific index in splunk.
